@@ -125,7 +125,7 @@ const createSlider = () => {
       changeSlide(slideIndex);
     }, duration);
   } else{
-    alert('please enter 2000 milliseconds or more.If you want to set less value than 2000 milliseconds,set it manually');
+    alert('Please enter 2000 milliseconds or more.If you want to set less value than 2000 milliseconds,set it manually');
   }
 }
 
